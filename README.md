@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **kamleshgupta2804@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JBKIpxlAk2Ny5V-Ojon3mMHQtwr3DZv1/view?usp=share_link)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JBKIpxlAk2Ny5V-Ojon3mMHQtwr3DZv1/view?usp=share_link](https://drive.google.com/file/d/1JBKIpxlAk2Ny5V-Ojon3mMHQtwr3DZv1/view?usp=share_link)
+- 📫 How to reach me **kamleshgupta2804@gmail.com**
 
 - ⚡ Fun fact **I think I am crazy**
 
