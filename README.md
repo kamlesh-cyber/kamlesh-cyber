@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamlesh Gupta</h1>
+<h1 align="center">Hi <img alt="wawinghand" width="30px" height="30px" src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif"> I'm Kamlesh Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
